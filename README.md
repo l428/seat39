@@ -2,10 +2,10 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
-- AEM Author : https://author-p123456-e987654.adobeaemcloud.com/
-- AEM Publish : https://publish-p123456-e987654.adobeaemcloud.com/
+- Preview: https://main--seat39--l428.hlx.page/
+- Live: https://main--seat39--l428.hlx.live/
+- AEM Author : https://author-p133087-e1294318.adobeaemcloud.com/
+- AEM Publish : https://publish-p133087-e1294318.adobeaemcloud.com/
 
 ## Installation
 
